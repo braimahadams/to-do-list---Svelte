@@ -15,45 +15,33 @@ This is a simple Todo List application built using SvelteKit. The app allows use
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/test2user-aqil/todo.git
+   git clone https://github.com/https://github.com/braimahadams/to-do-list---Svelte
    ```
 
 2. Navigate to the project directory:
 
-   ```bash
    cd todo
    ```
 
 3. Install the dependencies:
 
-   ```bash
    pnpm install
    ```
 
 4. Start the development server:
-
-   ```bash
+5. 
    pnpm dev
    ```
 
-5. Open your browser and visit `http://localhost:5173` to see the app in action.
+6. Open your browser and visit `http://localhost:5173` to see the app in action.
 
 ## Additional Features
 
-You can enhance the Todo List App by adding the following features:
+App can be enhanced by adding the following features:
 
 - **Task editing:** Allow users to edit the content of existing tasks.
 - **Due dates:** Enable users to set due dates for their tasks.
 - **Priority levels:** Implement a priority system for tasks (e.g., high, medium, low).
 - **User authentication:** Add user authentication to secure the app and provide personalized task management.
 
-Feel free to customize the app according to your requirements and expand its functionality.
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. Make sure to follow the project's code of conduct.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
