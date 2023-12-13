@@ -14,26 +14,18 @@ This is a simple Todo List application built using SvelteKit. The app allows use
 ## Installation
 
 1. Clone the repository:
-
    git clone https://github.com/https://github.com/braimahadams/to-do-list---Svelte
-   ```
-
+   
 2. Navigate to the project directory:
-
    cd todo
-   ```
 
 3. Install the dependencies:
-
    pnpm install
-   ```
 
 4. Start the development server:
-5. 
-   pnpm dev
-   ```
+    pnpm dev
 
-6. Open your browser and visit `http://localhost:5173` to see the app in action.
+5. Open your browser and visit `http://localhost:5173` to see the app in action.
 
 ## Additional Features
 
